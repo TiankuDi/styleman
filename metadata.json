@@ -1,0 +1,8 @@
+{
+  "name": "AuraStyle AI 造型設計師 3062",
+  "description": "智慧時尚造型顧問與視覺分析儀表板，支援相機拍照與上傳穿搭，提供多維度美學評分、色彩剪裁搭配分析、互動式 Canvas 視覺化儀表板與語音評語播報。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
